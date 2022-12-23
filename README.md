@@ -1,1 +1,1 @@
-![alt text](https://randomfox.ca/images/26.jpg "Image Title")
+![MEME](https://i.redd.it/rm2h3i7arf7a1.png "MEME")
