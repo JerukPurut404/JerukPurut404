@@ -1,1 +1,1 @@
-![MEME](https://i.imgur.com/S9xT1xC.jpg "MEME")
+![MEME](https://i.redd.it/f1xff3kpom7a1.jpg "MEME")
