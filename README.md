@@ -1,4 +1,4 @@
-![Github's Stats](https://github-readme-stats.vercel.app/api?username=JerukPurut404&show_icons=true&count_private=true&theme=radical)
+![Github's Stats](https://github-readme-stats.vercel.app/api?username=JerukPurut404&show_icons=true&count_private=true&theme=radical&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)
 <h1 align="center">Hi 👋, I'm JerukPurut</h1>
 <h3 align="center">I'm currently a student for software delevoper in MediaCollege Amsterdam</h3>
 
