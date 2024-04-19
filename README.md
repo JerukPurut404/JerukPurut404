@@ -1,6 +1,6 @@
 ![Github's Stats](https://github-readme-stats.vercel.app/api?username=JerukPurut404&show_icons=true&count_private=true&theme=radical&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)
 <h1 align="center">Hi 👋, I'm JerukPurut</h1>
-<h3 align="center">I'm currently a student for software delevoper in MediaCollege Amsterdam</h3>
+<h3 align="center">I'm currently a student for software delevoper in [REDACTED] college</h3>
 
 - 🔭 I’m currently working on **an online anime stuff shopping website**
 
@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python and perhaps other simple things such as javascript**
 
-- 📫 How to reach me: **35023@ma-web.nl**
+- 📫 How to reach me: **privateduck@renn.es**
 
 - ⚡ Fun fact: **I hide a easter egg in my NVGM website**
 
